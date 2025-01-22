@@ -42,7 +42,7 @@ This project demonstrates my ability to work with business data, clean and analy
 ## How to Use
 
 1. Clone or download this repository.
-2. Open the `MADHAV_ECOMMERCE_SALES_DASHBOARD.pbix` file in **Power BI Desktop**.
+2. Open the `[MADHAV_ECOMMERCE_SALES_DASHBOARD.pbix](https://github.com/GauravN471/ECOMMERCE-SALES-DASHBOARD/blob/main/MADHAV%20ECOMMERCE%20SALES%20DASHBOARD.pbix)` file in **Power BI Desktop**.
 3. Explore the dashboard by interacting with filters and visualizations.
 4. Use insights to understand sales performance and inform business strategies.
 
