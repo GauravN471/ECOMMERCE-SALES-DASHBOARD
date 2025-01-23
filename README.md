@@ -73,7 +73,3 @@ This project demonstrates my ability to work with business data, clean and analy
 - Introduce regional profitability metrics and customer segmentation analysis.
 
 ---
-
-## Acknowledgments
-
-Special thanks to the **Forage platform** for providing resources and simulated data for this project. This project reflects the ability to analyze and visualize business data effectively to derive actionable insights.
